@@ -1,5 +1,7 @@
 # Readme 👀
 
+No more "Well bummer, I forgot to type `nvm use`"
+
 ## Prerequisites:
 
 - nvm
@@ -7,7 +9,7 @@
 
 ## Install instructions
 
-1. Copy the code in `nvm-autoswitch.zsh`
+1. Copy the code from `nvm-autoswitch.zsh`
 2. Paste it into your `.zshrc` file directly _after_ 
     ```sh
     export NVM_DIR="$HOME/.nvm"
