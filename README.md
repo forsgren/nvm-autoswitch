@@ -14,7 +14,7 @@ No more "Well bummer, I forgot to type `nvm use`"
 1. Clone this repo (or just download the `nvm-autoswitch.zsh` file)
 2. Place the file in a directory of your choice
 3. Open your `.zshrc` file
-4. Add the following directly after the nvm initialization\*:
+4. Add the following directly after the nvm initialization\* (remember to update the path):
     ```sh
     if [[ -r ~/PATH_TO_FILE/nvm-autoswitch.zsh ]]; then
         source ~/PATH_TO_FILE/nvm-autoswitch.zsh
